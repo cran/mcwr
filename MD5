@@ -1,0 +1,16 @@
+433b022519606bd8db0b46dbbfc4ff56 *DESCRIPTION
+fe141007273ab38c9e180fb2b7762eea *LICENSE
+9d79b959a5274915bb8723c47200afe7 *NAMESPACE
+4cca630e2ea2dfa1067018feb4e8d92c *R/mcwr.R
+f6695c0140569409cbb6ddb3d453e995 *R/mcwr_pkghelp.R
+27c382605e80cc5f5381be41790c4a83 *R/sysdata.rda
+5e530167f189b8416ae2c22d06462c08 *inst/CITATION
+6824cb54db37c7ea9925d0429198703b *man/mcwr.Rd
+48722c0c55e653ace48b6cedd82391ca *man/mcwr_check.Rd
+c19a5d7f3f7b0ae31ae903e19247f1b4 *man/mcwr_exampledata.Rd
+70642abae5ba190bae5bee7978566014 *man/mcwr_exit.Rd
+c46fb3f24efa87254af539b01b830cf0 *man/mcwr_expectancies.Rd
+e3a533aabcd3aa0427c037819f046c7b *man/mcwr_genvars.Rd
+0c4fc6090110b6b6ea9078882aa4c553 *man/mcwr_switch.Rd
+34039446d3557f019955c56177c326f7 *tests/testthat/mcwr_certdata.RData
+969e5dfcde7d66c78e6d46bb3a7982b0 *tests/testthat/test_mcwr.R
